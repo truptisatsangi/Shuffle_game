@@ -1,3 +1,3 @@
 ### Let's play
 
-[Let's play](https://shuffleapp.netlify.app/play.html)
+[Let's shuffle](https://shuffleapp.netlify.app/play.html)
